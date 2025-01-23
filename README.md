@@ -3,7 +3,7 @@
 ## Description
 Application of ERCO energy suppliers scraping
 
-## SELECTORES.docx
+### SELECTORES.docx
 
 Document with information of HTML selectors for each of the scraped pages, which are changed according to changes in the pages.
 
