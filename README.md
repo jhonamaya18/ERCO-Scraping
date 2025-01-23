@@ -5,7 +5,11 @@ Application of ERCO energy suppliers scraping
 
 ## SELECTORES.docx
 
-Document with the HTML selectors for each of the scraped pages, which are changed according to changes in the pages.
+Document with information of HTML selectors for each of the scraped pages, which are changed according to changes in the pages.
+
+### server/.env
+
+Environment file with HTML selectors for each of the scraped pages, which are changed according to changes in the pages.
 
 ### server/index.js 
 
