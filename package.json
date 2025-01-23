@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  }
+}
